@@ -17,6 +17,4 @@ Personal interests and hobbies
 🛠️ Technologies Used
 HTML5 – Structure of the webpage
 
-Basic CSS (optional) – (Currently not applied but can be added for styling)
-
 Images – Displaying certificates and profile picture
